@@ -1,6 +1,6 @@
 import re
 
-print("Welcome MegaCalc !")
+print("Welcome MegaCalc!")
 print("Type 'help' For Guidlines.")
 
 run = True  # running flag for perform
